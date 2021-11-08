@@ -18,7 +18,7 @@ In this social network, everyone is friends with everyone. As a user, you will b
 * Users can view a global feed containing posts from all registered accounts.
 * Users can like posts. 
 * Posts may contain multiple images as well as text.
-* Password recovery by email.
+* Password recovery by email.  
 To-do List: 
 * Allow users to make posts containing videos using YouTube's API.
 * Allow users to comment on posts. 
