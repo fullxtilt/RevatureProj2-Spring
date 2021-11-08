@@ -36,3 +36,11 @@ Environment Variables:
 * DITTO_SPRING_IP_AND_PORT    | IP and Port for Tomcat Server
 * DITTO_ANGULAR_IP_AND_PORT   | IP and Port for Angular Server
 
+# Usage
+Create an account and then log in to access website functionality. Users can edit their profile information by clicking on their profile picture or the marker by their name and status. The button at the top left links to the global feed, while the 'Me' button links to a user's personal profile. Users can post using the '+' icon beside posts on their profile page. Users can search for friends' profiles using the search bar. 
+
+# Contributors
+Ryan Moss
+John Benson
+Jae Kyoung Lee (LJ)
+Mike Keefer
